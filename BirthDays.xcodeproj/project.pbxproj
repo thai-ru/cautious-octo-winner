@@ -14,6 +14,7 @@
 		0083D4562BCB4D2700C80D65 /* BirthDaysTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0083D4552BCB4D2700C80D65 /* BirthDaysTests.swift */; };
 		0083D4602BCB4D2700C80D65 /* BirthDaysUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0083D45F2BCB4D2700C80D65 /* BirthDaysUITests.swift */; };
 		0083D4622BCB4D2700C80D65 /* BirthDaysUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0083D4612BCB4D2700C80D65 /* BirthDaysUITestsLaunchTests.swift */; };
+		0083D46F2BCB4D5A00C80D65 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0083D46E2BCB4D5A00C80D65 /* Friend.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		0083D45B2BCB4D2700C80D65 /* BirthDaysUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BirthDaysUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0083D45F2BCB4D2700C80D65 /* BirthDaysUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthDaysUITests.swift; sourceTree = "<group>"; };
 		0083D4612BCB4D2700C80D65 /* BirthDaysUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthDaysUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0083D46E2BCB4D5A00C80D65 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				0083D4442BCB4D2600C80D65 /* BirthDaysApp.swift */,
 				0083D4462BCB4D2600C80D65 /* ContentView.swift */,
+				0083D46E2BCB4D5A00C80D65 /* Friend.swift */,
 				0083D4482BCB4D2700C80D65 /* Assets.xcassets */,
 				0083D44A2BCB4D2700C80D65 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0083D46F2BCB4D5A00C80D65 /* Friend.swift in Sources */,
 				0083D4472BCB4D2600C80D65 /* ContentView.swift in Sources */,
 				0083D4452BCB4D2600C80D65 /* BirthDaysApp.swift in Sources */,
 			);
